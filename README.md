@@ -8,4 +8,4 @@ The project for the course **Applied Mathematics and Statistics - MTH00057 - HCM
 - MSc. Nguyễn Văn Quang Huy 
 - MSc. Ngô Đình Hy
 
-### Individual project - 21CLC04 (Semester 2 / 2022 - 2023)
+### Individual project - 21CLC04 (Semester 3 / 2022 - 2023)
