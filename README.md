@@ -4,6 +4,6 @@ Educational image processing project in Python implementing basic filters (brigh
 The project for the course **Applied Mathematics and Statistics - MTH00057 - HCMUS**
 
 ### Instructors
-Assoc. Prof. PhD. Nguyễn Đình Thúc 
-MSc. Nguyễn Văn Quang Huy 
-MSc. Ngô Đình Hy
+- Assoc. Prof. PhD. Nguyễn Đình Thúc 
+- MSc. Nguyễn Văn Quang Huy 
+- MSc. Ngô Đình Hy
