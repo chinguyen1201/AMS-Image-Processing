@@ -7,3 +7,5 @@ The project for the course **Applied Mathematics and Statistics - MTH00057 - HCM
 - Assoc. Prof. PhD. Nguyễn Đình Thúc 
 - MSc. Nguyễn Văn Quang Huy 
 - MSc. Ngô Đình Hy
+
+### Individual project - 21CLC04 (Semester 2 / 2022 - 2023)
